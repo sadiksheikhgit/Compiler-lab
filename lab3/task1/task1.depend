@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753943664 source:d:\aiub\sem8\mid\compiler\lab\lab3\task1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
